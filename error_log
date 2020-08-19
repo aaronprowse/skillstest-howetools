@@ -1,0 +1,108 @@
+[19-Aug-2020 10:38:46 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:38:48 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:03 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:04 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:05 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:06 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:06 UTC] PHP Parse error:  syntax error, unexpected ''libs/Database.php'' (T_CONSTANT_ENCAPSED_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 1
+[19-Aug-2020 10:41:17 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:41:18 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:41:18 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:41:19 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:41:20 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:41:29 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:44:10 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:44:11 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:44:14 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:44:36 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:47:51 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:47:55 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:02 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:45 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:46 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:47 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:47 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:48:56 UTC] PHP Fatal error:  Uncaught Error: Class 'Bootstrap' not found in /home/aaronprowse/public_html/howetools.planalink.com/index.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/index.php on line 20
+[19-Aug-2020 10:49:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:49:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:50:04 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:50:10 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:50:42 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:50:43 UTC] PHP Parse error:  syntax error, unexpected 'Database' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Database.php on line 1
+[19-Aug-2020 10:52:03 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:03 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:04 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:04 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:04 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:04 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:08 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:45 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:52:46 UTC] PHP Parse error:  syntax error, unexpected 'Bootstrap' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/libs/Bootstrap.php on line 1
+[19-Aug-2020 10:53:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:53:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function phpdefine() in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php:1
+Stack trace:
+#0 /home/aaronprowse/public_html/howetools.planalink.com/index.php(17): require()
+#1 {main}
+  thrown in /home/aaronprowse/public_html/howetools.planalink.com/config/paths.php on line 1
+[19-Aug-2020 10:54:10 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:03 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:16 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:16 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:16 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:17 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:55:17 UTC] PHP Parse error:  syntax error, unexpected 'Index' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/controllers/index.php on line 1
+[19-Aug-2020 10:57:21 UTC] PHP Parse error:  syntax error, unexpected 'Index_model' (T_STRING) in /home/aaronprowse/public_html/howetools.planalink.com/models/index_model.php on line 1
+[19-Aug-2020 10:59:15 UTC] PHP Warning:  getimagesize(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 10:59:15 UTC] PHP Warning:  mime_content_type(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  getimagesize(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  mime_content_type(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 10:59:16 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  getimagesize(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  mime_content_type(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  getimagesize(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  mime_content_type(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:00:14 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:01:10 UTC] PHP Warning:  getimagesize(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:01:10 UTC] PHP Warning:  mime_content_type(images/HO18_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  getimagesize(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  mime_content_type(images/BD1815_2.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  getimagesize(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 150
+[19-Aug-2020 11:01:11 UTC] PHP Warning:  mime_content_type(images/HM0870C_1.jpg): failed to open stream: No such file or directory in /home/aaronprowse/public_html/howetools.planalink.com/models/imagechecker_model.php on line 152

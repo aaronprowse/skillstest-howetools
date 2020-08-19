@@ -1,0 +1,24 @@
+/* Header Styles */
+/*@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');*/
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #575756;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.image-thumbnail {
+    max-height: 167px;
+}
+
+.image-thumbnail-container {
+    min-height: 167px;
+}
+
+.content-thumbnail-container {
+    border: 1px solid #000;
+}

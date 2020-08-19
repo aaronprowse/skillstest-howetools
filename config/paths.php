@@ -1,0 +1,1 @@
+<?phpdefine("base_url", (@$_SERVER['HTTPS'] ? "https://" : "http://") . $_SERVER['HTTP_HOST'] . DIRECTORY_SEPARATOR);

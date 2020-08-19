@@ -1,0 +1,1 @@
+ (function($) {     $('#randomInsert').submit(function() {         var url = $(this).attr('action');         var data = $(this).serialize();         //Debug         //$.post(url, data, function(o) {         //    console.log(data);         //});         return false;     }) }(jQuery));
