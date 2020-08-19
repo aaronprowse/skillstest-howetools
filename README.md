@@ -1,7 +1,7 @@
 # skillstest-howetools
 OOP PHP MVC Framework solution for interview skills test.
 
-Please see [task-brief.pdf](../Task-Brief.pdf) for instructions on the task.
+Please see [task-brief.pdf](Task-Brief.pdf) for instructions on the task.
 
 for a live demonstration:
 
