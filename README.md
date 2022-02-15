@@ -5,7 +5,7 @@ Please see [task-brief.pdf](Task-Brief.pdf) for instructions on the task.
 
 for a live demonstration:
 
-[http://howetools.planalink.com/](http://howetools.planalink.com/)
+[https://htl.khdev.co.uk/](http://howetools.planalink.com/)
 
 		Site Username: HoweAdmin
 
